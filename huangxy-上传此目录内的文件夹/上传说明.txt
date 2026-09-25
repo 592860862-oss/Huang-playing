@@ -1,0 +1,1 @@
+﻿请把 public 和 functions 两个文件夹整体拖进 GitHub 的 Upload files 网页。不要只选择根目录的文件。上传列表中必须能看到 public/index.html 和 functions/api/trips/[token].js。提交后 Cloudflare 会自动重试部署。Pages 输出目录仍填 public，不要改为根目录。
